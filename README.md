@@ -2,26 +2,15 @@
 
 A Python-based data analysis and machine learning project that explores graduate-level data using pandas and Jupyter Notebooks.
 
----
 
-## 📁 Project Structure
 
-```
-Graduates-Data-Anlysis-ML-/
-├── Graduates.ipynb   # Main Jupyter Notebook for data analysis & ML
-├── graduates.csv     # Dataset (graduates data)
-└── README.md
-```
-
----
-
-## 🔍 Overview
+##  Overview
 
 This project loads and analyzes a graduates dataset (`graduates.csv`) to perform exploratory data analysis (EDA) and apply machine learning techniques. The work is done interactively in a Jupyter Notebook (`Graduates.ipynb`).
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
@@ -53,7 +42,7 @@ This project loads and analyzes a graduates dataset (`graduates.csv`) to perform
 
 ---
 
-## 📊 Usage
+##  Usage
 
 1. Ensure the `graduates.csv` dataset is in the project root directory.
 2. Open `Graduates.ipynb` in Jupyter Notebook.
@@ -61,7 +50,7 @@ This project loads and analyzes a graduates dataset (`graduates.csv`) to perform
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 | Tool | Purpose |
 |------|---------|
